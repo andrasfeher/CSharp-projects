@@ -1,0 +1,8 @@
+C:\Documents and Settings\N535835\My Documents\Visual Studio 2008\Projects\DisplayPsziche\DisplayPsziche\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\N535835\My Documents\Visual Studio 2008\Projects\DisplayPsziche\DisplayPsziche\obj\Debug\DisplayPsziche.Main.resources
+C:\Documents and Settings\N535835\My Documents\Visual Studio 2008\Projects\DisplayPsziche\DisplayPsziche\obj\Debug\DisplayPsziche.Properties.Resources.resources
+C:\Documents and Settings\N535835\My Documents\Visual Studio 2008\Projects\DisplayPsziche\DisplayPsziche\obj\Debug\DisplayPsziche.csproj.GenerateResource.Cache
+C:\Documents and Settings\N535835\My Documents\Visual Studio 2008\Projects\DisplayPsziche\DisplayPsziche\bin\Debug\DisplayPsziche.exe
+C:\Documents and Settings\N535835\My Documents\Visual Studio 2008\Projects\DisplayPsziche\DisplayPsziche\bin\Debug\DisplayPsziche.pdb
+C:\Documents and Settings\N535835\My Documents\Visual Studio 2008\Projects\DisplayPsziche\DisplayPsziche\obj\Debug\DisplayPsziche.exe
+C:\Documents and Settings\N535835\My Documents\Visual Studio 2008\Projects\DisplayPsziche\DisplayPsziche\obj\Debug\DisplayPsziche.pdb
