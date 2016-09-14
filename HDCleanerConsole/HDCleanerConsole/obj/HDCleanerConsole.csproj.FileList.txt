@@ -1,0 +1,10 @@
+obj\Release\HDCleanerConsole.exe
+obj\Release\HDCleanerConsole.pdb
+bin\Release\HDCleanerConsole.exe
+bin\Release\HDCleanerConsole.pdb
+obj\Release\ResolveAssemblyReference.cache
+bin\Debug\HDCleanerConsole.exe
+bin\Debug\HDCleanerConsole.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\HDCleanerConsole.exe
+obj\Debug\HDCleanerConsole.pdb

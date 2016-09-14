@@ -1,0 +1,10 @@
+bin\Release\MyFileReaders.dll
+bin\Release\MyFileReaders.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\MyFileReaders.dll
+obj\Release\MyFileReaders.pdb
+bin\Debug\MyFileReaders.dll
+bin\Debug\MyFileReaders.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\MyFileReaders.dll
+obj\Debug\MyFileReaders.pdb

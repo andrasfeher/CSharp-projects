@@ -1,0 +1,16 @@
+obj\Debug\HDCleaner.exe
+obj\Debug\HDCleaner.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\HDCleaner.MainForm.resources
+obj\Debug\HDCleaner.Properties.Resources.resources
+obj\Debug\HDCleaner.csproj.GenerateResource.Cache
+bin\Debug\HDCleaner.exe
+bin\Debug\HDCleaner.pdb
+bin\Release\HDCleaner.exe
+bin\Release\HDCleaner.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\HDCleaner.MainForm.resources
+obj\Release\HDCleaner.Properties.Resources.resources
+obj\Release\HDCleaner.csproj.GenerateResource.Cache
+obj\Release\HDCleaner.exe
+obj\Release\HDCleaner.pdb

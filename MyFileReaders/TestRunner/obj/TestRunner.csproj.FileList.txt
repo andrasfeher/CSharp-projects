@@ -1,0 +1,14 @@
+bin\Release\TestRunner.exe
+bin\Release\TestRunner.pdb
+bin\Release\MyFileReaders.dll
+bin\Release\MyFileReaders.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\TestRunner.exe
+obj\Release\TestRunner.pdb
+bin\Debug\TestRunner.exe
+bin\Debug\TestRunner.pdb
+bin\Debug\MyFileReaders.dll
+bin\Debug\MyFileReaders.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\TestRunner.exe
+obj\Debug\TestRunner.pdb
