@@ -1,0 +1,5 @@
+C:\Documents and Settings\feher\My Documents\Visual Studio 2008\Projects\XMLSerializer\XMLSerializer\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\feher\My Documents\Visual Studio 2008\Projects\XMLSerializer\XMLSerializer\bin\Debug\XMLSerializer.exe
+C:\Documents and Settings\feher\My Documents\Visual Studio 2008\Projects\XMLSerializer\XMLSerializer\bin\Debug\XMLSerializer.pdb
+C:\Documents and Settings\feher\My Documents\Visual Studio 2008\Projects\XMLSerializer\XMLSerializer\obj\Debug\XMLSerializer.exe
+C:\Documents and Settings\feher\My Documents\Visual Studio 2008\Projects\XMLSerializer\XMLSerializer\obj\Debug\XMLSerializer.pdb
