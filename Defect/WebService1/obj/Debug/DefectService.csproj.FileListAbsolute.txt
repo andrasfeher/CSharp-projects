@@ -1,0 +1,55 @@
+Y:\WebService1\bin\WebService1.dll
+Y:\WebService1\bin\WebService1.pdb
+Y:\WebService1\obj\Debug\ResolveAssemblyReference.cache
+Y:\WebService1\obj\Debug\WebService1.dll
+Y:\WebService1\obj\Debug\WebService1.pdb
+C:\Documents and Settings\feher\My Documents\Visual Studio 2008\Projects\Defect\WebService1\bin\WebService1.dll
+C:\Documents and Settings\feher\My Documents\Visual Studio 2008\Projects\Defect\WebService1\bin\WebService1.pdb
+C:\Documents and Settings\feher\My Documents\Visual Studio 2008\Projects\Defect\WebService1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\feher\My Documents\Visual Studio 2008\Projects\Defect\WebService1\obj\Debug\WebService1.dll
+C:\Documents and Settings\feher\My Documents\Visual Studio 2008\Projects\Defect\WebService1\obj\Debug\WebService1.pdb
+Y:\WebService1\bin\Entities.dll
+Y:\WebService1\bin\Entities.pdb
+C:\Documents and Settings\feher\My Documents\Visual Studio 2008\Projects\Defect\WebService1\bin\Entities.dll
+C:\Documents and Settings\feher\My Documents\Visual Studio 2008\Projects\Defect\WebService1\bin\Entities.pdb
+C:\Documents and Settings\feher\My Documents\Visual Studio 2008\Projects\Defect\WebService1\bin\DefectBusinessLogic.dll
+C:\Documents and Settings\feher\My Documents\Visual Studio 2008\Projects\Defect\WebService1\bin\DefectBusinessLogic.pdb
+\\Wavebu3\Defect\WebService1\obj\Debug\ResolveAssemblyReference.cache
+\\Wavebu3\Defect\WebService1\obj\Debug\WebService1.dll
+C:\Documents and Settings\feher\My Documents\Visual Studio 2008\Projects\Defect\WebService1\bin\DataAccess.dll
+C:\Documents and Settings\feher\My Documents\Visual Studio 2008\Projects\Defect\WebService1\bin\DataAccess.pdb
+\\Wavebu3\Defect\WebService1\bin\WebService1.dll
+\\Wavebu3\Defect\WebService1\bin\WebService1.pdb
+\\Wavebu3\Defect\WebService1\bin\DefectBusinessLogic.dll
+\\Wavebu3\Defect\WebService1\bin\Entities.dll
+\\Wavebu3\Defect\WebService1\bin\DataAccess.dll
+\\Wavebu3\Defect\WebService1\bin\DefectBusinessLogic.pdb
+\\Wavebu3\Defect\WebService1\bin\DataAccess.pdb
+\\Wavebu3\Defect\WebService1\bin\Entities.pdb
+\\Wavebu3\Defect\WebService1\obj\Debug\WebService1.pdb
+c:\Documents and Settings\szabocs\My Documents\Visual Studio 2008\Projects\Defect\WebService1\bin\WebService1.dll
+c:\Documents and Settings\szabocs\My Documents\Visual Studio 2008\Projects\Defect\WebService1\bin\WebService1.pdb
+c:\Documents and Settings\szabocs\My Documents\Visual Studio 2008\Projects\Defect\WebService1\bin\DefectBusinessLogic.dll
+c:\Documents and Settings\szabocs\My Documents\Visual Studio 2008\Projects\Defect\WebService1\bin\Entities.dll
+c:\Documents and Settings\szabocs\My Documents\Visual Studio 2008\Projects\Defect\WebService1\bin\DataAccess.dll
+c:\Documents and Settings\szabocs\My Documents\Visual Studio 2008\Projects\Defect\WebService1\bin\DefectBusinessLogic.pdb
+c:\Documents and Settings\szabocs\My Documents\Visual Studio 2008\Projects\Defect\WebService1\bin\DataAccess.pdb
+c:\Documents and Settings\szabocs\My Documents\Visual Studio 2008\Projects\Defect\WebService1\bin\Entities.pdb
+c:\Documents and Settings\szabocs\My Documents\Visual Studio 2008\Projects\Defect\WebService1\obj\Debug\ResolveAssemblyReference.cache
+c:\Documents and Settings\szabocs\My Documents\Visual Studio 2008\Projects\Defect\WebService1\obj\Debug\WebService1.dll
+c:\Documents and Settings\szabocs\My Documents\Visual Studio 2008\Projects\Defect\WebService1\obj\Debug\WebService1.pdb
+Y:\WebService1\bin\DefectBusinessLogic.dll
+Y:\WebService1\bin\DataAccess.dll
+Y:\WebService1\bin\DefectBusinessLogic.pdb
+Y:\WebService1\bin\DataAccess.pdb
+C:\Documents and Settings\baloghl\My Documents\Visual Studio 2008\Projects\Defect\WebService1\bin\WebService1.dll
+C:\Documents and Settings\baloghl\My Documents\Visual Studio 2008\Projects\Defect\WebService1\bin\WebService1.pdb
+C:\Documents and Settings\baloghl\My Documents\Visual Studio 2008\Projects\Defect\WebService1\bin\DefectBusinessLogic.dll
+C:\Documents and Settings\baloghl\My Documents\Visual Studio 2008\Projects\Defect\WebService1\bin\Entities.dll
+C:\Documents and Settings\baloghl\My Documents\Visual Studio 2008\Projects\Defect\WebService1\bin\DataAccess.dll
+C:\Documents and Settings\baloghl\My Documents\Visual Studio 2008\Projects\Defect\WebService1\bin\DefectBusinessLogic.pdb
+C:\Documents and Settings\baloghl\My Documents\Visual Studio 2008\Projects\Defect\WebService1\bin\DataAccess.pdb
+C:\Documents and Settings\baloghl\My Documents\Visual Studio 2008\Projects\Defect\WebService1\bin\Entities.pdb
+C:\Documents and Settings\baloghl\My Documents\Visual Studio 2008\Projects\Defect\WebService1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\baloghl\My Documents\Visual Studio 2008\Projects\Defect\WebService1\obj\Debug\WebService1.dll
+C:\Documents and Settings\baloghl\My Documents\Visual Studio 2008\Projects\Defect\WebService1\obj\Debug\WebService1.pdb

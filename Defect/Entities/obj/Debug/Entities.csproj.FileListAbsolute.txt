@@ -1,0 +1,25 @@
+Y:\Entities\obj\Debug\ResolveAssemblyReference.cache
+Y:\Entities\bin\Debug\Entities.dll
+Y:\Entities\bin\Debug\Entities.pdb
+Y:\Entities\obj\Debug\Entities.dll
+Y:\Entities\obj\Debug\Entities.pdb
+C:\Documents and Settings\feher\My Documents\Visual Studio 2008\Projects\Defect\Entities\bin\Debug\Entities.dll
+C:\Documents and Settings\feher\My Documents\Visual Studio 2008\Projects\Defect\Entities\bin\Debug\Entities.pdb
+C:\Documents and Settings\feher\My Documents\Visual Studio 2008\Projects\Defect\Entities\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\feher\My Documents\Visual Studio 2008\Projects\Defect\Entities\obj\Debug\Entities.dll
+C:\Documents and Settings\feher\My Documents\Visual Studio 2008\Projects\Defect\Entities\obj\Debug\Entities.pdb
+\\Wavebu3\Defect\Entities\obj\Debug\ResolveAssemblyReference.cache
+\\Wavebu3\Defect\Entities\obj\Debug\Entities.dll
+\\Wavebu3\Defect\Entities\bin\Debug\Entities.dll
+\\Wavebu3\Defect\Entities\bin\Debug\Entities.pdb
+\\Wavebu3\Defect\Entities\obj\Debug\Entities.pdb
+c:\Documents and Settings\szabocs\My Documents\Visual Studio 2008\Projects\Defect\Entities\bin\Debug\Entities.dll
+c:\Documents and Settings\szabocs\My Documents\Visual Studio 2008\Projects\Defect\Entities\bin\Debug\Entities.pdb
+c:\Documents and Settings\szabocs\My Documents\Visual Studio 2008\Projects\Defect\Entities\obj\Debug\ResolveAssemblyReference.cache
+c:\Documents and Settings\szabocs\My Documents\Visual Studio 2008\Projects\Defect\Entities\obj\Debug\Entities.dll
+c:\Documents and Settings\szabocs\My Documents\Visual Studio 2008\Projects\Defect\Entities\obj\Debug\Entities.pdb
+C:\Documents and Settings\baloghl\My Documents\Visual Studio 2008\Projects\Defect\Entities\bin\Debug\Entities.dll
+C:\Documents and Settings\baloghl\My Documents\Visual Studio 2008\Projects\Defect\Entities\bin\Debug\Entities.pdb
+C:\Documents and Settings\baloghl\My Documents\Visual Studio 2008\Projects\Defect\Entities\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\baloghl\My Documents\Visual Studio 2008\Projects\Defect\Entities\obj\Debug\Entities.dll
+C:\Documents and Settings\baloghl\My Documents\Visual Studio 2008\Projects\Defect\Entities\obj\Debug\Entities.pdb
