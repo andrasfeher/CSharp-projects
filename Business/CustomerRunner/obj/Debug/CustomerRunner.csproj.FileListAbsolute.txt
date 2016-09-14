@@ -1,0 +1,9 @@
+C:\Documents and Settings\n535835\My Documents\Visual Studio 2008\Projects\Business\CustomerRunner\bin\Debug\CustomerRunner.exe
+C:\Documents and Settings\n535835\My Documents\Visual Studio 2008\Projects\Business\CustomerRunner\bin\Debug\CustomerRunner.pdb
+C:\Documents and Settings\n535835\My Documents\Visual Studio 2008\Projects\Business\CustomerRunner\bin\Debug\Business.dll
+C:\Documents and Settings\n535835\My Documents\Visual Studio 2008\Projects\Business\CustomerRunner\bin\Debug\Business.pdb
+C:\Documents and Settings\n535835\My Documents\Visual Studio 2008\Projects\Business\CustomerRunner\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\n535835\My Documents\Visual Studio 2008\Projects\Business\CustomerRunner\obj\Debug\CustomerRunner.exe
+C:\Documents and Settings\n535835\My Documents\Visual Studio 2008\Projects\Business\CustomerRunner\obj\Debug\CustomerRunner.pdb
+C:\Documents and Settings\feher\My Documents\Visual Studio 2008\Projects\Business\CustomerRunner\obj\Debug\CustomerRunner.exe
+C:\Documents and Settings\feher\My Documents\Visual Studio 2008\Projects\Business\CustomerRunner\obj\Debug\CustomerRunner.pdb

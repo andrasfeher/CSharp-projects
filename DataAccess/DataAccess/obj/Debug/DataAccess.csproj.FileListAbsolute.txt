@@ -1,0 +1,6 @@
+C:\Documents and Settings\feher\My Documents\Visual Studio 2008\Projects\DataAccess\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\feher\My Documents\Visual Studio 2008\Projects\DataAccess\DataAccess\bin\Debug\DataAccess.exe.config
+C:\Documents and Settings\feher\My Documents\Visual Studio 2008\Projects\DataAccess\DataAccess\bin\Debug\DataAccess.exe
+C:\Documents and Settings\feher\My Documents\Visual Studio 2008\Projects\DataAccess\DataAccess\bin\Debug\DataAccess.pdb
+C:\Documents and Settings\feher\My Documents\Visual Studio 2008\Projects\DataAccess\DataAccess\obj\Debug\DataAccess.exe
+C:\Documents and Settings\feher\My Documents\Visual Studio 2008\Projects\DataAccess\DataAccess\obj\Debug\DataAccess.pdb

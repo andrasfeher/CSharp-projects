@@ -1,0 +1,7 @@
+C:\Documents and Settings\n535835\My Documents\Visual Studio 2008\Projects\Business\CustomerTest\bin\Debug\CustomerTest.dll
+C:\Documents and Settings\n535835\My Documents\Visual Studio 2008\Projects\Business\CustomerTest\bin\Debug\CustomerTest.pdb
+C:\Documents and Settings\n535835\My Documents\Visual Studio 2008\Projects\Business\CustomerTest\bin\Debug\Business.dll
+C:\Documents and Settings\n535835\My Documents\Visual Studio 2008\Projects\Business\CustomerTest\bin\Debug\Business.pdb
+C:\Documents and Settings\n535835\My Documents\Visual Studio 2008\Projects\Business\CustomerTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\n535835\My Documents\Visual Studio 2008\Projects\Business\CustomerTest\obj\Debug\CustomerTest.dll
+C:\Documents and Settings\n535835\My Documents\Visual Studio 2008\Projects\Business\CustomerTest\obj\Debug\CustomerTest.pdb

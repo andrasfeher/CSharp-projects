@@ -1,0 +1,5 @@
+Id: 47dcf7ad-61fd-4be1-8849-46be4618bd0b
+Name: Teszt ugyfel
+AccountBalance: -42000,66
+Group: 
+LastActivityDate: jeudi 3 avril 2008
