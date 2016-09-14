@@ -1,0 +1,10 @@
+bin\Release\Psziche.exe.config
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Psziche.frmMain.resources
+obj\Release\Psziche.frmName.resources
+obj\Release\Psziche.Properties.Resources.resources
+obj\Release\Psziche.csproj.GenerateResource.Cache
+bin\Release\Psziche.exe
+bin\Release\Psziche.pdb
+obj\Release\Psziche.exe
+obj\Release\Psziche.pdb
