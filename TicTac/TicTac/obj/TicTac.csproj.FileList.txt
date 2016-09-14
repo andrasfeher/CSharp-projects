@@ -1,0 +1,2 @@
+obj\Release\TicTac.exe
+obj\Release\TicTac.pdb

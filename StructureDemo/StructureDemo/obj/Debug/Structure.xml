@@ -1,0 +1,17 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Structure
+</name>
+</assembly>
+<members>
+<member name="M:Structure.Customer.ToString">
+	<summary>
+ Overrides the default ToString method
+ </summary>
+	<returns>String</returns>
+	<remarks>Returns the customer name and email address</remarks>
+</member>
+</members>
+</doc>

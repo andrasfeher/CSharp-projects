@@ -1,0 +1,5 @@
+C:\Documents and Settings\N535835\My Documents\Visual Studio 2008\Projects\SQLServerCLR\SQLServerCLR\bin\Release\SQLServerCLR.dll
+C:\Documents and Settings\N535835\My Documents\Visual Studio 2008\Projects\SQLServerCLR\SQLServerCLR\bin\Release\SQLServerCLR.pdb
+C:\Documents and Settings\N535835\My Documents\Visual Studio 2008\Projects\SQLServerCLR\SQLServerCLR\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\N535835\My Documents\Visual Studio 2008\Projects\SQLServerCLR\SQLServerCLR\obj\Release\SQLServerCLR.dll
+C:\Documents and Settings\N535835\My Documents\Visual Studio 2008\Projects\SQLServerCLR\SQLServerCLR\obj\Release\SQLServerCLR.pdb
