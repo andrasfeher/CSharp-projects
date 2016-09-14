@@ -1,0 +1,5 @@
+C:\Documents and Settings\N535835\My Documents\Visual Studio 2008\Projects\DateTmeInterval\DateTmeInterval\bin\Release\DateTmeInterval.exe
+C:\Documents and Settings\N535835\My Documents\Visual Studio 2008\Projects\DateTmeInterval\DateTmeInterval\bin\Release\DateTmeInterval.pdb
+C:\Documents and Settings\N535835\My Documents\Visual Studio 2008\Projects\DateTmeInterval\DateTmeInterval\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\N535835\My Documents\Visual Studio 2008\Projects\DateTmeInterval\DateTmeInterval\obj\Release\DateTmeInterval.exe
+C:\Documents and Settings\N535835\My Documents\Visual Studio 2008\Projects\DateTmeInterval\DateTmeInterval\obj\Release\DateTmeInterval.pdb
