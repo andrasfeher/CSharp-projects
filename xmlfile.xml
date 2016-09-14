@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>NumberIt</name>
+    </assembly>
+    <members>
+        <member name="T:NumberIT">
+            <summary>
+             osztály a forráskódok számozására, ha a kód hossza nem nagyobb mint 1000 sor
+            </summary>
+        </member>
+        <member name="M:NumberIT.Main(System.String[])">
+            <summary>
+             az alkalmazás kezdőpontja
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,72 @@
+001: using System;
+002: using System.IO;
+003: 
+004: ///<summary>
+005: /// osztly a forrskdok szmozsra, ha a kd hossza nem nagyobb mint 1000 sor
+006: ///</summary>
+007: 
+008: class NumberIT
+009: {
+010:     ///<summary>
+011:     /// az alkalmazs kezdpontja
+012:     ///</summary>
+013: 
+014:     public static void Main( string[] args )
+015:     {
+016:         // ellenrizzk, hogy a felhasznl megadott-e fjlnevet a parancssorban
+017: 
+018:         if ( args.Length <= 0 )
+019:         {
+020:             Console.WriteLine( "Missing input filename\n" );
+021:         }
+022:         else
+023:         {
+024:             // objektumok bevezetse a fjlmveletekhez
+025: 
+026:             StreamReader InFile  = null;
+027:             StreamWriter OutFile = null;
+028: 
+029:             try
+030:             {
+031:                 // parancssorban megadott file megnyitsa
+032:                 InFile = File.OpenText( args[0] );
+033: 
+034:                 // kimeneti fjl ltrehozsa
+035:                 OutFile = File.CreateText( "outfile.txt" );
+036: 
+037:                 Console.Write( "\nNumbering...." );
+038: 
+039:                 // a fjl els sornak beolvassa
+040:                 string line = InFile.ReadLine();
+041:                 int ctr = 1;
+042: 
+043:                 // addig maradunk a ciklusban, mg el nem rjk a fjl vgt
+044:                 while ( line != null )
+045:                 {
+046:                     OutFile.WriteLine( "{0}: {1}", ctr.ToString().PadLeft( 3, '0' ), line );
+047:                     Console.Write( "..{0}..", ctr.ToString());
+048:                     ctr++;
+049:                     line = InFile.ReadLine();
+050:                 }
+051:             }
+052:             catch ( System.IO.FileNotFoundException )
+053:             {
+054:                 Console.WriteLine( "Could not find file {0}", args[0] );
+055:             }
+056:             catch ( Exception e )
+057:             {
+058:                 Console.WriteLine( "Error: {0}", e.Message );
+059:             }
+060:             finally
+061:             {
+062:                 if ( InFile != null )
+063:                 {
+064:                     // fjlok lezrsa
+065:                     InFile.Close();
+066:                     OutFile.Close();
+067:                     Console.WriteLine( "Done.." );
+068:                 }
+069:             }
+070:         }
+071:     }
+072: }
