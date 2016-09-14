@@ -1,0 +1,42 @@
+﻿body
+{
+	font-family: Verdana;
+	font-size: 12pt;
+	text-align: center;
+}
+
+#container
+{
+	margin-top: 25px;
+}
+
+#main
+{
+	text-align: left;
+}
+
+.newDefect thead
+{
+	text-align: center;
+	height: 25px;
+}
+
+.newDefect tbody
+{
+	text-align: left;
+}
+
+.newDefect tbody tr td 
+{
+	vertical-align: top;
+}
+
+.newDefect tfoot
+{
+	text-align: right;
+}
+
+.defaultButton
+{
+	height: 20px;
+}

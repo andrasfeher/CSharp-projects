@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://defects.org/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" targetNamespace="http://defects.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://defects.org/">
+      <s:element name="AddDefect">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="item" type="tns:Defect" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="Defect">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="Id" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="Title" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Description" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="CreatedBy" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="State" type="tns:DefectState" />
+          <s:element minOccurs="1" maxOccurs="1" name="CreatedDate" type="s:dateTime" />
+          <s:element minOccurs="0" maxOccurs="1" name="AssignedTo" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="AssignedDate" type="s:dateTime" />
+          <s:element minOccurs="1" maxOccurs="1" name="ClosedDate" type="s:dateTime" />
+        </s:sequence>
+      </s:complexType>
+      <s:simpleType name="DefectState">
+        <s:restriction base="s:string">
+          <s:enumeration value="Opened" />
+          <s:enumeration value="UnderDevelopement" />
+          <s:enumeration value="Resolved" />
+          <s:enumeration value="Rejected" />
+          <s:enumeration value="Closed" />
+        </s:restriction>
+      </s:simpleType>
+      <s:element name="AddDefectResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="AddDefectResult" type="tns:Defect" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetDefects">
+        <s:complexType />
+      </s:element>
+      <s:element name="GetDefectsResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetDefectsResult" type="tns:ArrayOfDefect" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfDefect">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="Defect" nillable="true" type="tns:Defect" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="SetDefectState">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="item" type="tns:Defect" />
+            <s:element minOccurs="1" maxOccurs="1" name="newState" type="tns:DefectState" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="SetDefectStateResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="SetDefectStateResult" type="tns:Defect" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="AddDefectSoapIn">
+    <wsdl:part name="parameters" element="tns:AddDefect" />
+  </wsdl:message>
+  <wsdl:message name="AddDefectSoapOut">
+    <wsdl:part name="parameters" element="tns:AddDefectResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetDefectsSoapIn">
+    <wsdl:part name="parameters" element="tns:GetDefects" />
+  </wsdl:message>
+  <wsdl:message name="GetDefectsSoapOut">
+    <wsdl:part name="parameters" element="tns:GetDefectsResponse" />
+  </wsdl:message>
+  <wsdl:message name="SetDefectStateSoapIn">
+    <wsdl:part name="parameters" element="tns:SetDefectState" />
+  </wsdl:message>
+  <wsdl:message name="SetDefectStateSoapOut">
+    <wsdl:part name="parameters" element="tns:SetDefectStateResponse" />
+  </wsdl:message>
+  <wsdl:portType name="Service1Soap">
+    <wsdl:operation name="AddDefect">
+      <wsdl:input message="tns:AddDefectSoapIn" />
+      <wsdl:output message="tns:AddDefectSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetDefects">
+      <wsdl:input message="tns:GetDefectsSoapIn" />
+      <wsdl:output message="tns:GetDefectsSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="SetDefectState">
+      <wsdl:input message="tns:SetDefectStateSoapIn" />
+      <wsdl:output message="tns:SetDefectStateSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="Service1Soap" type="tns:Service1Soap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="AddDefect">
+      <soap:operation soapAction="http://defects.org/AddDefect" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetDefects">
+      <soap:operation soapAction="http://defects.org/GetDefects" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SetDefectState">
+      <soap:operation soapAction="http://defects.org/SetDefectState" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="Service1Soap12" type="tns:Service1Soap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="AddDefect">
+      <soap12:operation soapAction="http://defects.org/AddDefect" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetDefects">
+      <soap12:operation soapAction="http://defects.org/GetDefects" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SetDefectState">
+      <soap12:operation soapAction="http://defects.org/SetDefectState" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="Service1">
+    <wsdl:port name="Service1Soap" binding="tns:Service1Soap">
+      <soap:address location="http://localhost:1232/Service1.asmx" />
+    </wsdl:port>
+    <wsdl:port name="Service1Soap12" binding="tns:Service1Soap12">
+      <soap12:address location="http://localhost:1232/Service1.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

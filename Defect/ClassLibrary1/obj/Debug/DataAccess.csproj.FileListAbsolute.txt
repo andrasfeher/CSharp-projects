@@ -1,0 +1,40 @@
+Y:\ClassLibrary1\bin\Debug\DataAccess.dll
+Y:\ClassLibrary1\bin\Debug\DataAccess.pdb
+Y:\ClassLibrary1\obj\Debug\ResolveAssemblyReference.cache
+Y:\ClassLibrary1\obj\Debug\DataAccess.dll
+Y:\ClassLibrary1\obj\Debug\DataAccess.pdb
+C:\Documents and Settings\feher\My Documents\Visual Studio 2008\Projects\Defect\ClassLibrary1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\feher\My Documents\Visual Studio 2008\Projects\Defect\ClassLibrary1\obj\Debug\DataAccess.dll
+\\Wavebu3\Defect\ClassLibrary1\obj\Debug\ResolveAssemblyReference.cache
+\\Wavebu3\Defect\ClassLibrary1\obj\Debug\DataAccess.dll
+\\Wavebu3\Defect\ClassLibrary1\bin\Debug\DataAccess.dll.config
+\\Wavebu3\Defect\ClassLibrary1\bin\Debug\DataAccess.dll
+\\Wavebu3\Defect\ClassLibrary1\bin\Debug\DataAccess.pdb
+\\Wavebu3\Defect\ClassLibrary1\bin\Debug\Entities.dll
+\\Wavebu3\Defect\ClassLibrary1\bin\Debug\Entities.pdb
+\\Wavebu3\Defect\ClassLibrary1\obj\Debug\DataAccess.pdb
+C:\Documents and Settings\feher\My Documents\Visual Studio 2008\Projects\Defect\ClassLibrary1\bin\Debug\DataAccess.dll.config
+C:\Documents and Settings\feher\My Documents\Visual Studio 2008\Projects\Defect\ClassLibrary1\bin\Debug\DataAccess.dll
+C:\Documents and Settings\feher\My Documents\Visual Studio 2008\Projects\Defect\ClassLibrary1\bin\Debug\DataAccess.pdb
+C:\Documents and Settings\feher\My Documents\Visual Studio 2008\Projects\Defect\ClassLibrary1\bin\Debug\Entities.dll
+C:\Documents and Settings\feher\My Documents\Visual Studio 2008\Projects\Defect\ClassLibrary1\bin\Debug\Entities.pdb
+C:\Documents and Settings\feher\My Documents\Visual Studio 2008\Projects\Defect\ClassLibrary1\obj\Debug\DataAccess.pdb
+c:\Documents and Settings\szabocs\My Documents\Visual Studio 2008\Projects\Defect\ClassLibrary1\bin\Debug\DataAccess.dll.config
+c:\Documents and Settings\szabocs\My Documents\Visual Studio 2008\Projects\Defect\ClassLibrary1\bin\Debug\DataAccess.dll
+c:\Documents and Settings\szabocs\My Documents\Visual Studio 2008\Projects\Defect\ClassLibrary1\bin\Debug\DataAccess.pdb
+c:\Documents and Settings\szabocs\My Documents\Visual Studio 2008\Projects\Defect\ClassLibrary1\bin\Debug\Entities.dll
+c:\Documents and Settings\szabocs\My Documents\Visual Studio 2008\Projects\Defect\ClassLibrary1\bin\Debug\Entities.pdb
+c:\Documents and Settings\szabocs\My Documents\Visual Studio 2008\Projects\Defect\ClassLibrary1\obj\Debug\ResolveAssemblyReference.cache
+c:\Documents and Settings\szabocs\My Documents\Visual Studio 2008\Projects\Defect\ClassLibrary1\obj\Debug\DataAccess.dll
+c:\Documents and Settings\szabocs\My Documents\Visual Studio 2008\Projects\Defect\ClassLibrary1\obj\Debug\DataAccess.pdb
+Y:\ClassLibrary1\bin\Debug\DataAccess.dll.config
+Y:\ClassLibrary1\bin\Debug\Entities.dll
+Y:\ClassLibrary1\bin\Debug\Entities.pdb
+C:\Documents and Settings\baloghl\My Documents\Visual Studio 2008\Projects\Defect\ClassLibrary1\bin\Debug\DataAccess.dll.config
+C:\Documents and Settings\baloghl\My Documents\Visual Studio 2008\Projects\Defect\ClassLibrary1\bin\Debug\DataAccess.dll
+C:\Documents and Settings\baloghl\My Documents\Visual Studio 2008\Projects\Defect\ClassLibrary1\bin\Debug\DataAccess.pdb
+C:\Documents and Settings\baloghl\My Documents\Visual Studio 2008\Projects\Defect\ClassLibrary1\bin\Debug\Entities.dll
+C:\Documents and Settings\baloghl\My Documents\Visual Studio 2008\Projects\Defect\ClassLibrary1\bin\Debug\Entities.pdb
+C:\Documents and Settings\baloghl\My Documents\Visual Studio 2008\Projects\Defect\ClassLibrary1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\baloghl\My Documents\Visual Studio 2008\Projects\Defect\ClassLibrary1\obj\Debug\DataAccess.dll
+C:\Documents and Settings\baloghl\My Documents\Visual Studio 2008\Projects\Defect\ClassLibrary1\obj\Debug\DataAccess.pdb

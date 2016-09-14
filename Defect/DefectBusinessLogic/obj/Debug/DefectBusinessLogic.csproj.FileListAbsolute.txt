@@ -1,0 +1,45 @@
+Y:\DefectBusinessLogic\bin\Debug\DefectBusinessLogic.dll
+Y:\DefectBusinessLogic\bin\Debug\DefectBusinessLogic.pdb
+Y:\DefectBusinessLogic\obj\Debug\ResolveAssemblyReference.cache
+Y:\DefectBusinessLogic\obj\Debug\DefectBusinessLogic.dll
+Y:\DefectBusinessLogic\obj\Debug\DefectBusinessLogic.pdb
+C:\Documents and Settings\feher\My Documents\Visual Studio 2008\Projects\Defect\DefectBusinessLogic\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\feher\My Documents\Visual Studio 2008\Projects\Defect\DefectBusinessLogic\obj\Debug\DefectBusinessLogic.dll
+C:\Documents and Settings\feher\My Documents\Visual Studio 2008\Projects\Defect\DefectBusinessLogic\obj\Debug\DefectBusinessLogic.pdb
+\\Wavebu3\Defect\DefectBusinessLogic\obj\Debug\ResolveAssemblyReference.cache
+\\Wavebu3\Defect\DefectBusinessLogic\obj\Debug\DefectBusinessLogic.dll
+C:\Documents and Settings\feher\My Documents\Visual Studio 2008\Projects\Defect\DefectBusinessLogic\bin\Debug\DefectBusinessLogic.dll
+C:\Documents and Settings\feher\My Documents\Visual Studio 2008\Projects\Defect\DefectBusinessLogic\bin\Debug\DefectBusinessLogic.pdb
+C:\Documents and Settings\feher\My Documents\Visual Studio 2008\Projects\Defect\DefectBusinessLogic\bin\Debug\DataAccess.dll
+C:\Documents and Settings\feher\My Documents\Visual Studio 2008\Projects\Defect\DefectBusinessLogic\bin\Debug\Entities.dll
+C:\Documents and Settings\feher\My Documents\Visual Studio 2008\Projects\Defect\DefectBusinessLogic\bin\Debug\DataAccess.pdb
+C:\Documents and Settings\feher\My Documents\Visual Studio 2008\Projects\Defect\DefectBusinessLogic\bin\Debug\Entities.pdb
+\\Wavebu3\Defect\DefectBusinessLogic\bin\Debug\DefectBusinessLogic.dll
+\\Wavebu3\Defect\DefectBusinessLogic\bin\Debug\DefectBusinessLogic.pdb
+\\Wavebu3\Defect\DefectBusinessLogic\bin\Debug\DataAccess.dll
+\\Wavebu3\Defect\DefectBusinessLogic\bin\Debug\Entities.dll
+\\Wavebu3\Defect\DefectBusinessLogic\bin\Debug\DataAccess.pdb
+\\Wavebu3\Defect\DefectBusinessLogic\bin\Debug\Entities.pdb
+\\Wavebu3\Defect\DefectBusinessLogic\obj\Debug\DefectBusinessLogic.pdb
+c:\Documents and Settings\szabocs\My Documents\Visual Studio 2008\Projects\Defect\DefectBusinessLogic\bin\Debug\DefectBusinessLogic.dll
+c:\Documents and Settings\szabocs\My Documents\Visual Studio 2008\Projects\Defect\DefectBusinessLogic\bin\Debug\DefectBusinessLogic.pdb
+c:\Documents and Settings\szabocs\My Documents\Visual Studio 2008\Projects\Defect\DefectBusinessLogic\bin\Debug\DataAccess.dll
+c:\Documents and Settings\szabocs\My Documents\Visual Studio 2008\Projects\Defect\DefectBusinessLogic\bin\Debug\Entities.dll
+c:\Documents and Settings\szabocs\My Documents\Visual Studio 2008\Projects\Defect\DefectBusinessLogic\bin\Debug\DataAccess.pdb
+c:\Documents and Settings\szabocs\My Documents\Visual Studio 2008\Projects\Defect\DefectBusinessLogic\bin\Debug\Entities.pdb
+c:\Documents and Settings\szabocs\My Documents\Visual Studio 2008\Projects\Defect\DefectBusinessLogic\obj\Debug\ResolveAssemblyReference.cache
+c:\Documents and Settings\szabocs\My Documents\Visual Studio 2008\Projects\Defect\DefectBusinessLogic\obj\Debug\DefectBusinessLogic.dll
+c:\Documents and Settings\szabocs\My Documents\Visual Studio 2008\Projects\Defect\DefectBusinessLogic\obj\Debug\DefectBusinessLogic.pdb
+Y:\DefectBusinessLogic\bin\Debug\DataAccess.dll
+Y:\DefectBusinessLogic\bin\Debug\Entities.dll
+Y:\DefectBusinessLogic\bin\Debug\DataAccess.pdb
+Y:\DefectBusinessLogic\bin\Debug\Entities.pdb
+C:\Documents and Settings\baloghl\My Documents\Visual Studio 2008\Projects\Defect\DefectBusinessLogic\bin\Debug\DefectBusinessLogic.dll
+C:\Documents and Settings\baloghl\My Documents\Visual Studio 2008\Projects\Defect\DefectBusinessLogic\bin\Debug\DefectBusinessLogic.pdb
+C:\Documents and Settings\baloghl\My Documents\Visual Studio 2008\Projects\Defect\DefectBusinessLogic\bin\Debug\DataAccess.dll
+C:\Documents and Settings\baloghl\My Documents\Visual Studio 2008\Projects\Defect\DefectBusinessLogic\bin\Debug\Entities.dll
+C:\Documents and Settings\baloghl\My Documents\Visual Studio 2008\Projects\Defect\DefectBusinessLogic\bin\Debug\DataAccess.pdb
+C:\Documents and Settings\baloghl\My Documents\Visual Studio 2008\Projects\Defect\DefectBusinessLogic\bin\Debug\Entities.pdb
+C:\Documents and Settings\baloghl\My Documents\Visual Studio 2008\Projects\Defect\DefectBusinessLogic\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\baloghl\My Documents\Visual Studio 2008\Projects\Defect\DefectBusinessLogic\obj\Debug\DefectBusinessLogic.dll
+C:\Documents and Settings\baloghl\My Documents\Visual Studio 2008\Projects\Defect\DefectBusinessLogic\obj\Debug\DefectBusinessLogic.pdb

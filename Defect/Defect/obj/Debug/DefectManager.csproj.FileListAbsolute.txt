@@ -1,0 +1,18 @@
+Y:\Defect\bin\Defect.dll
+Y:\Defect\bin\Defect.pdb
+Y:\Defect\obj\Debug\ResolveAssemblyReference.cache
+Y:\Defect\obj\Debug\Defect.dll
+Y:\Defect\obj\Debug\Defect.pdb
+C:\Documents and Settings\feher\My Documents\Visual Studio 2008\Projects\Defect\Defect\bin\Defect.dll
+C:\Documents and Settings\feher\My Documents\Visual Studio 2008\Projects\Defect\Defect\bin\Defect.pdb
+C:\Documents and Settings\feher\My Documents\Visual Studio 2008\Projects\Defect\Defect\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\feher\My Documents\Visual Studio 2008\Projects\Defect\Defect\obj\Debug\Defect.dll
+C:\Documents and Settings\feher\My Documents\Visual Studio 2008\Projects\Defect\Defect\obj\Debug\Defect.pdb
+Y:\Defect\bin\Entities.dll
+Y:\Defect\bin\Entities.pdb
+C:\Documents and Settings\feher\My Documents\Visual Studio 2008\Projects\Defect\Defect\bin\Entities.dll
+C:\Documents and Settings\feher\My Documents\Visual Studio 2008\Projects\Defect\Defect\bin\Entities.pdb
+Y:\Defect\bin\DefectBusinessLogic.dll
+Y:\Defect\bin\DefectBusinessLogic.pdb
+C:\Documents and Settings\feher\My Documents\Visual Studio 2008\Projects\Defect\Defect\bin\DefectBusinessLogic.dll
+C:\Documents and Settings\feher\My Documents\Visual Studio 2008\Projects\Defect\Defect\bin\DefectBusinessLogic.pdb

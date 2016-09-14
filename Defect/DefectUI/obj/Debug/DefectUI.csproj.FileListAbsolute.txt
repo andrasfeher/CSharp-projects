@@ -1,0 +1,25 @@
+C:\Documents and Settings\feher\My Documents\Visual Studio 2008\Projects\Defect\DefectUI\bin\DefectUI.dll
+C:\Documents and Settings\feher\My Documents\Visual Studio 2008\Projects\Defect\DefectUI\bin\DefectUI.pdb
+C:\Documents and Settings\feher\My Documents\Visual Studio 2008\Projects\Defect\DefectUI\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\feher\My Documents\Visual Studio 2008\Projects\Defect\DefectUI\obj\Debug\DefectUI.dll
+C:\Documents and Settings\feher\My Documents\Visual Studio 2008\Projects\Defect\DefectUI\obj\Debug\DefectUI.pdb
+Y:\DefectUI\bin\DefectUI.dll
+Y:\DefectUI\bin\DefectUI.pdb
+Y:\DefectUI\obj\Debug\ResolveAssemblyReference.cache
+Y:\DefectUI\obj\Debug\DefectUI.dll
+Y:\DefectUI\obj\Debug\DefectUI.pdb
+\\Wavebu3\Defect\DefectUI\bin\DefectUI.dll
+\\Wavebu3\Defect\DefectUI\bin\DefectUI.pdb
+\\Wavebu3\Defect\DefectUI\obj\Debug\ResolveAssemblyReference.cache
+\\Wavebu3\Defect\DefectUI\obj\Debug\DefectUI.dll
+\\Wavebu3\Defect\DefectUI\obj\Debug\DefectUI.pdb
+c:\Documents and Settings\szabocs\My Documents\Visual Studio 2008\Projects\Defect\DefectUI\obj\Debug\ResolveAssemblyReference.cache
+c:\Documents and Settings\szabocs\My Documents\Visual Studio 2008\Projects\Defect\DefectUI\obj\Debug\DefectUI.dll
+c:\Documents and Settings\szabocs\My Documents\Visual Studio 2008\Projects\Defect\DefectUI\bin\DefectUI.dll
+c:\Documents and Settings\szabocs\My Documents\Visual Studio 2008\Projects\Defect\DefectUI\bin\DefectUI.pdb
+c:\Documents and Settings\szabocs\My Documents\Visual Studio 2008\Projects\Defect\DefectUI\obj\Debug\DefectUI.pdb
+C:\Documents and Settings\baloghl\My Documents\Visual Studio 2008\Projects\Defect\DefectUI\bin\DefectUI.dll
+C:\Documents and Settings\baloghl\My Documents\Visual Studio 2008\Projects\Defect\DefectUI\bin\DefectUI.pdb
+C:\Documents and Settings\baloghl\My Documents\Visual Studio 2008\Projects\Defect\DefectUI\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\baloghl\My Documents\Visual Studio 2008\Projects\Defect\DefectUI\obj\Debug\DefectUI.dll
+C:\Documents and Settings\baloghl\My Documents\Visual Studio 2008\Projects\Defect\DefectUI\obj\Debug\DefectUI.pdb
