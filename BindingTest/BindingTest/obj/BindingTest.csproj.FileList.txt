@@ -1,0 +1,8 @@
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\BindingTest.Form1.resources
+obj\Release\BindingTest.Properties.Resources.resources
+obj\Release\BindingTest.csproj.GenerateResource.Cache
+bin\Release\BindingTest.exe
+bin\Release\BindingTest.pdb
+obj\Release\BindingTest.exe
+obj\Release\BindingTest.pdb
