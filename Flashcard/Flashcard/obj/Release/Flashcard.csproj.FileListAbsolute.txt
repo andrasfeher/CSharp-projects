@@ -1,0 +1,8 @@
+C:\Documents and Settings\N535835\My Documents\Visual Studio 2008\Projects\Flashcard\Flashcard\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\N535835\My Documents\Visual Studio 2008\Projects\Flashcard\Flashcard\obj\Release\Flashcard.Properties.Resources.resources
+C:\Documents and Settings\N535835\My Documents\Visual Studio 2008\Projects\Flashcard\Flashcard\obj\Release\Flashcard.csproj.GenerateResource.Cache
+C:\Documents and Settings\N535835\My Documents\Visual Studio 2008\Projects\Flashcard\Flashcard\bin\Release\Flashcard.exe
+C:\Documents and Settings\N535835\My Documents\Visual Studio 2008\Projects\Flashcard\Flashcard\bin\Release\Flashcard.pdb
+C:\Documents and Settings\N535835\My Documents\Visual Studio 2008\Projects\Flashcard\Flashcard\obj\Release\Flashcard.exe
+C:\Documents and Settings\N535835\My Documents\Visual Studio 2008\Projects\Flashcard\Flashcard\obj\Release\Flashcard.pdb
+C:\Documents and Settings\N535835\My Documents\Visual Studio 2008\Projects\Flashcard\Flashcard\obj\Release\Flashcard.MainForm.resources
